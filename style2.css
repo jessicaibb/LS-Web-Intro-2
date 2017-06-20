@@ -1,0 +1,57 @@
+header {
+	background-color: red;
+	color: red;
+	height: 100px;
+	width: 100%;
+	margin-top: -30px;
+
+}
+
+.sideRight {
+	background-color: yellow;	
+	color: yellow;
+	width: 33%;
+	height: 500px;
+	float: right;
+	padding: 0;
+	display: inline-block;
+	margin: auto;
+
+}
+
+.sideLeft {
+	background-color: blue;	
+	color: blue;
+	width: 33%;
+	height: 500px;
+	float: left;
+	padding: 0;
+	display: inline-block;
+	margin: auto;
+
+}
+
+.content {
+	background-color: purple;
+	color: purple;
+	display: inline-block;
+	margin: auto;
+	width: 35%;
+	height: 514px;
+	padding: 0;
+	display: block;
+	margin-top: -16px;
+
+}
+
+.footer {
+	background-color: green;
+	color: green;
+	height: 100px;
+	width: 100%;
+	margin-top: -30px;
+
+}
+
+
+
